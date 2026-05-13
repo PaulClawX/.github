@@ -34,6 +34,7 @@ Our direction is simple: **move agents from “able to act” to “able to deli
 | Browser Agent | Web task automation with repeatable runs, traceable actions, and recoverable execution. |
 | GUI / Computer Use | Agents that can understand and operate real desktop interfaces to reduce repetitive manual work. |
 | Interview Agent | Structured feedback loops powered by rubrics, prompts, evaluations, and iteration. |
+| Research Agent | Research workflows that search, synthesize, cite sources, and turn open-ended questions into usable briefs. |
 | Multi-Agent Workflows | Multiple roles that split tasks, work in parallel, and consolidate results. |
 | Tracing & Eval | Execution records that capture real behavior, failure modes, and improvement signals beyond polished demos. |
 
@@ -55,10 +56,13 @@ Our direction is simple: **move agents from “able to act” to “able to deli
 - Evaluatable review flows instead of generic coaching responses
 - Agent collaboration patterns for training, review, and long-term improvement
 
-### [`PaulClawX/.github`](https://github.com/PaulClawX/.github)
+### [`research-agent`](https://github.com/PaulClawX/research-agent)
 
-- Organization profile and community health files
-- A clear entry point for project direction, collaboration, and vision
+> Turn scattered information into traceable research outputs.
+
+- Research task planning, web exploration, source collection, and synthesis
+- Evidence-aware summaries with citations, uncertainty notes, and follow-up questions
+- Workflow patterns for moving from broad questions to structured briefs and decisions
 
 ## What We Believe
 
