@@ -1,0 +1,69 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cute technical workflow map</title>
+  <desc id="desc">A colorful workflow map showing human intent moving through browser agent, GUI agent, multi-agent planning, tracing, evaluation, and delivery.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F4F9FF"/>
+    </linearGradient>
+    <filter id="soft" x="35" y="30" width="1130" height="352" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#7B91B8" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="430" rx="26" fill="url(#bg2)"/>
+  <g filter="url(#soft)">
+    <rect x="72" y="66" width="1056" height="284" rx="26" fill="#FFFFFF" stroke="#DDEAFF" stroke-width="3"/>
+  </g>
+  <path d="M218 210H370M506 210H658M794 210H946" stroke="#B7C9EA" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 18"/>
+  <g transform="translate(96 122)">
+    <rect width="146" height="176" rx="24" fill="#FFF6D8" stroke="#FFE073" stroke-width="5"/>
+    <circle cx="73" cy="59" r="28" fill="#FFD25A"/>
+    <path d="M36 133C47 101 99 101 110 133" stroke="#101827" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="62" cy="55" r="5" fill="#101827"/>
+    <circle cx="84" cy="55" r="5" fill="#101827"/>
+    <path d="M63 75C70 80 77 80 84 75" stroke="#101827" stroke-width="5" stroke-linecap="round"/>
+    <text x="73" y="159" text-anchor="middle" fill="#101827" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Human Intent</text>
+  </g>
+  <g transform="translate(384 122)">
+    <rect width="146" height="176" rx="24" fill="#EAF3FF" stroke="#8CC9FF" stroke-width="5"/>
+    <rect x="32" y="36" width="82" height="64" rx="13" fill="#101827"/>
+    <rect x="43" y="50" width="60" height="8" rx="4" fill="#7DE7C9"/>
+    <rect x="43" y="67" width="36" height="8" rx="4" fill="#FF8BC7"/>
+    <rect x="43" y="84" width="50" height="8" rx="4" fill="#FFE073"/>
+    <path d="M38 119H108" stroke="#7AA7FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M53 136H93" stroke="#7AA7FF" stroke-width="8" stroke-linecap="round"/>
+    <text x="73" y="159" text-anchor="middle" fill="#101827" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Browser Agent</text>
+  </g>
+  <g transform="translate(672 122)">
+    <rect width="146" height="176" rx="24" fill="#F0FFF9" stroke="#7DE7C9" stroke-width="5"/>
+    <rect x="28" y="35" width="90" height="68" rx="16" fill="#FFFFFF" stroke="#101827" stroke-width="7"/>
+    <path d="M50 121L79 91L98 135L81 130L70 150L59 144L70 126L50 121Z" fill="#FF8BC7" stroke="#101827" stroke-width="5" stroke-linejoin="round"/>
+    <text x="73" y="159" text-anchor="middle" fill="#101827" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">GUI Agent</text>
+  </g>
+  <g transform="translate(960 122)">
+    <rect width="146" height="176" rx="24" fill="#FFF2F8" stroke="#FF9DCD" stroke-width="5"/>
+    <circle cx="50" cy="64" r="22" fill="#7AA7FF"/>
+    <circle cx="96" cy="64" r="22" fill="#FFD25A"/>
+    <circle cx="73" cy="107" r="22" fill="#7DE7C9"/>
+    <path d="M63 73L58 91M85 73L80 91M62 110H49M84 110H98" stroke="#101827" stroke-width="5" stroke-linecap="round"/>
+    <text x="73" y="159" text-anchor="middle" fill="#101827" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Multi-Agent</text>
+  </g>
+  <rect x="265" y="58" width="190" height="38" rx="19" fill="#101827"/>
+  <text x="360" y="83" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">plan</text>
+  <rect x="553" y="58" width="190" height="38" rx="19" fill="#101827"/>
+  <text x="648" y="83" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">execute</text>
+  <rect x="841" y="58" width="190" height="38" rx="19" fill="#101827"/>
+  <text x="936" y="83" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">collaborate</text>
+  <rect x="252" y="326" width="696" height="48" rx="24" fill="#101827"/>
+  <circle cx="295" cy="350" r="10" fill="#7DE7C9"/>
+  <text x="318" y="357" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Tracing</text>
+  <circle cx="426" cy="350" r="10" fill="#FF8BC7"/>
+  <text x="449" y="357" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Eval</text>
+  <circle cx="532" cy="350" r="10" fill="#FFE073"/>
+  <text x="555" y="357" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Recovery</text>
+  <circle cx="688" cy="350" r="10" fill="#7AA7FF"/>
+  <text x="711" y="357" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Delivery</text>
+  <path d="M105 75V40M88 57H122M1095 381V344M1077 363H1113" stroke="#FFD25A" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="72" cy="365" r="10" fill="#FF8BC7"/>
+  <circle cx="1132" cy="67" r="12" fill="#7DE7C9"/>
+</svg>
