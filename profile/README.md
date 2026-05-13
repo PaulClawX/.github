@@ -40,29 +40,63 @@ Our direction is simple: **move agents from “able to act” to “able to deli
 
 ## Active Projects
 
-### [`browser-agent`](https://github.com/PaulClawX/browser-agent)
-
-> Never send a human to do a machine's job.
-
-- Browser automation and tool use for real web tasks
-- Repeatable execution, action tracing, failure recovery, and delivery quality
-- Infrastructure that turns page interaction into completed workflows
-
-### [`interview-agent`](https://github.com/PaulClawX/interview-agent)
-
-> Turn practice into structured feedback loops.
-
-- Interview practice, feedback, rubrics, and prompt iteration
-- Evaluatable review flows instead of generic coaching responses
-- Agent collaboration patterns for training, review, and long-term improvement
-
-### [`research-agent`](https://github.com/PaulClawX/research-agent)
-
-> Turn scattered information into traceable research outputs.
-
-- Research task planning, web exploration, source collection, and synthesis
-- Evidence-aware summaries with citations, uncertainty notes, and follow-up questions
-- Workflow patterns for moving from broad questions to structured briefs and decisions
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Mission</th>
+      <th align="left">What It Focuses On</th>
+      <th align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="22%">
+        <a href="https://github.com/PaulClawX/browser-agent"><strong>browser-agent</strong></a><br>
+        <sub>Web workflow execution</sub>
+      </td>
+      <td width="28%">
+        Never send a human to do a machine's job.
+      </td>
+      <td width="38%">
+        Browser automation, tool use, repeatable runs, action tracing, failure recovery, and infrastructure that turns page interaction into completed workflows.
+      </td>
+      <td align="center" width="12%">
+        <img alt="active" src="https://img.shields.io/badge/active-7DE7C9?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <td width="22%">
+        <a href="https://github.com/PaulClawX/interview-agent"><strong>interview-agent</strong></a><br>
+        <sub>Practice and feedback loops</sub>
+      </td>
+      <td width="28%">
+        Turn practice into structured feedback loops.
+      </td>
+      <td width="38%">
+        Interview practice, rubrics, prompt iteration, evaluatable review flows, and agent collaboration patterns for training and long-term improvement.
+      </td>
+      <td align="center" width="12%">
+        <img alt="active" src="https://img.shields.io/badge/active-FF8BC7?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <td width="22%">
+        <a href="https://github.com/PaulClawX/research-agent"><strong>research-agent</strong></a><br>
+        <sub>Traceable research outputs</sub>
+      </td>
+      <td width="28%">
+        Turn scattered information into reliable research briefs.
+      </td>
+      <td width="38%">
+        Research task planning, web exploration, source collection, evidence-aware synthesis, citations, uncertainty notes, and decision-ready summaries.
+      </td>
+      <td align="center" width="12%">
+        <img alt="active" src="https://img.shields.io/badge/active-7AA7FF?style=flat-square">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## What We Believe
 
